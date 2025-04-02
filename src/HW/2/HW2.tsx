@@ -50,7 +50,6 @@ export const HW2 = () => {
     const filteredUsers = users.myFriends.filter(user=>user.address.city==='Los Angeles');
     setCurrentUsers({ myFriends: filteredUsers });
   };
-  console.log('alalalalal')
 
 
   return (
