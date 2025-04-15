@@ -46,7 +46,7 @@ export const HW4 = () => {
             </li>
           );
         })}
-      </ol>div
+      </ol>
     </div>
   );
 };
